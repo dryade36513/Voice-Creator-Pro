@@ -9,9 +9,9 @@
 
 ## 🎥 實際展示 (Demo)
 
-點擊下方縮圖觀看 Voice Creator Pro 實際操作與 API 串接教學：
+看這短短幾秒的實際操作，體驗極速複製聲線與 API 串接：
 
-[![Voice Creator Pro 展示](https://img.youtube.com/vi/uVyRPYO6UsE/maxresdefault.jpg)](https://www.youtube.com/watch?v=uVyRPYO6UsE)
+<video src="./demo.mp4" width="100%" controls></video>
 ---
 
 ## ✨ 核心特色 (Features)
